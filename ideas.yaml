@@ -1,0 +1,13 @@
+fonctionnalités:
+    - Pouvoir avoir des versions alternative d'un pseudo tapé par l'utilisateur
+
+options:
+    - Stocker les résultats dans un .txt
+    - Activer ou non les accents
+    - "Bannir" certains caractères
+    - Sélectionner le niveau de tolérance
+
+upgrades:
+    - Avoir un compte
+    - Stocker ses diférents pseudos
+    - Associer les pseudos à des jeux
