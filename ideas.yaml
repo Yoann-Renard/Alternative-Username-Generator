@@ -12,3 +12,8 @@ upgrades:
     - Avoir un compte
     - Stocker ses diférents pseudos
     - Associer les pseudos à des jeux/sites internet
+    - ajouter plusieurs alphabets
+
+référence:
+    - https://github.com/codebox/homoglyph/blob/master/raw_data/chars.txt
+    - https://gist.github.com/StevenACoffman/a5f6f682d94e38ed804182dc2693ed4b
