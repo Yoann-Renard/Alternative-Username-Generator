@@ -2,12 +2,13 @@ fonctionnalités:
     - Pouvoir avoir des versions alternative d'un pseudo tapé par l'utilisateur
 
 options:
-    - Stocker les résultats dans un .txt
+    - Stocker les résultats dans un .txt (script)
     - Activer ou non les accents
     - "Bannir" certains caractères
+    - Pouvoir télécharger les résultats dans un .txt ( webapp )
     - Sélectionner le niveau de tolérance
 
 upgrades:
     - Avoir un compte
     - Stocker ses diférents pseudos
-    - Associer les pseudos à des jeux
+    - Associer les pseudos à des jeux/sites internet
