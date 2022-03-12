@@ -19,7 +19,7 @@ def pross(username: str,start: int, output: list) -> list:
                     newUN = username.replace(char, letter)
                     if newUN not in output and newUN != username:
                         output.append(newUN)
-                        print(newUN)
+                        #print(newUN)
     if i+1 <= len(username):
         return pross(username.replace(char, letter), i+1, output)
     else:
@@ -30,5 +30,6 @@ if __name__ == "__main__":
     username = input("Enter username: ").strip()
 
     output_list = pross(username,0 , [])
+    print(len(output_list))
 
     print(output_list)
